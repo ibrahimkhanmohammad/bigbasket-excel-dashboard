@@ -120,7 +120,7 @@ bigbasket-excel-dashboard/
 ## 👤 Author
 
 **Ibrahim Khan Mohammad**
-Data Engineer | Python(Pandas, Numpy), PostgreSQL
+Data Analyst | Excel, Power query, Python(Pandas, Numpy), PostgreSQL, Power BI, Gen AI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimkhanmohammad/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahimkhanmohammad)
